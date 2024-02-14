@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+}
+.container{
+    background-color: #f2f2f2 ;
+    padding: 5px 20px 15px 20px;
+    border: 2px solid lightblue;
+    border-radius: 4px;
+}
+input{mask-type: "Email";}
+input{mask-type: "name";}
+input{mask-type: "message";}
+input{mask-type: "subject";}
+.main_heading{text-align: center;}
+.heading{text-align: center;
+color: gray;
+;}
+.upper{background-color: rgb(53, 79, 135);}
